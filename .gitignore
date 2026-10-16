@@ -1,0 +1,5 @@
+*.backup-*
+*.sebelum-pemulihan-*
+*.bak
+*~
+.DS_Store
